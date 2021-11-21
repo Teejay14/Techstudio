@@ -1,0 +1,38 @@
+table, th, tr, td{
+    border: 2px;
+}
+
+h1{
+    color: brown;
+}
+
+.car{
+    color: green;
+}
+
+.tunji{
+    background-color: turquoise;
+}
+
+#t1{
+    color: blue;
+    border: dashed;
+}
+
+#t2{
+    color: blue;
+    border: solid;
+    border: none;
+}
+
+#t3{
+    color: wheat;
+    border: dotted;
+    border-color: black;
+    border-radius: 17px;
+}
+
+#t4{
+    color: rgba(red, green, blue, alpha);
+    border: double;
+}
